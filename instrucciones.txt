@@ -1,0 +1,5 @@
+Es necesario configurar los datos de conexión con el servidor SQL en el archivo lib/connect.php
+
+Las tablas en sql se encuentran en la raiz del sistema
+
+Todo el codigo fue escrito por mi, sin usar referencias externas

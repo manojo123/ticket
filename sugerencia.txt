@@ -1,0 +1,10 @@
+1 - Desarrollar un sistema de exportación de la lista en formato xls (Excel)
+2 - Implementar un sistema de multilenguage
+3 - Crear filtros dinamicos en todas las columnas, dando la opción al usuario de organizar como le guste
+4 - Crear un registro de usuarios y organizar por niveles de acceso, eligiendo a quien puede editar y/o borrar los tickets
+5 - Agregar un multi selector de tickets para poder eliminar varios o todos a la vez
+6 - Un sistema de backup de tickets y de recuperación de tickets borrados
+7 - Desarrollar un log de cambios en los tickets con fecha, hora, persona responsable y acción
+8 - Agregar campo de correo para poder responder los tickets generados y también crear una base de correos para envio masivo
+9 - Subir la prioridad automaticamente de un ticket en función a su fecha de creación
+10 - Agregar un software de captcha para evitar spam en la creacción de los tickets
